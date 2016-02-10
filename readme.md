@@ -1,4 +1,4 @@
-http://d.hatena.ne.jp/rkmt/20140114/1389687306
+see original description at: http://d.hatena.ne.jp/rkmt/20140114/1389687306
 
 ■ 自分の英語文書をマイニングして次に学ぶべき単語リストを自動生成する方法(暦本式語彙増強法)
 
